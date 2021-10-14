@@ -1,17 +1,16 @@
 # Django
-EJE.code-workspace
-env-eje/
+/Django/env-eje/
 
 # dependencies
-/front/node_modules
-/front/.pnp
+/React/front/node_modules
+/React/front/.pnp
 .pnp.js
 
 # testing
-/front/coverage
+/React/front/coverage
 
 # production
-/front/build
+/React/front/build
 
 # misc
 .DS_Store
