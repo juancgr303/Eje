@@ -2,15 +2,15 @@
 /Django/env-eje/
 
 # dependencies
-/React/front/node_modules
-/React/front/.pnp
+/React/app/node_modules
+/React/app/.pnp
 .pnp.js
 
 # testing
-/React/front/coverage
+/React/app/coverage
 
 # production
-/React/front/build
+/React/app/build
 
 # misc
 .DS_Store
